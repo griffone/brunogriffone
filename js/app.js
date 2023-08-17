@@ -54,7 +54,7 @@ function changeLanguage(language) {
   // Guardar el lenguaje en localStorage
   sessionStorage.setItem('language', language);
   // Cargar JSON
-  fetch(`/public/languages/${language}.json`)
+  fetch(`/brunogriffone/public/languages/${language}.json`)
     .then(response => response.json())
     .then(data => {
       applyTranslations(data);
