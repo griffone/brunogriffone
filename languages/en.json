@@ -1,0 +1,46 @@
+{
+    "nav": {
+        "about_me_nav": "About me",
+        "portfolio_nav": "Portfolio",
+        "contact_nav": "Contact"
+    },
+    "header": {
+        "greeting": "Hi!, I'm",
+        "avocation": "Student & Developer",
+        "button_hire_me": "Hire me"
+    },
+    "about_me": {
+        "about_me_text": "[EN] -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Habitant posuere iaculis neque et, eu sapien. A odio bibendum purus facilisi accumsan ut. Placerat nunc dapibus ultrices fringilla sit. Senectus volutpat morbi laoreet nisi vitae et"
+    },
+    "services": {
+        "gral_title_service": "Services",
+        "gral_title_skill": "Skills",
+        "first_service": "Web Development",
+        "second_service": "Web Design",
+        "skill_front_end": "HTML, CSS, Bootstrap 5, Tailwind CSS, SASS, JavaScript and React",
+        "skill_back_end": "Django, PHP, MySQL and PostgreSQL",
+        "skill_other": "Python and Java (College)",
+        "cv_advertisement": "You can see my CV on LinkedIn or by clicking the following link:",
+        "skill_other_title": "Other:",
+        "skill_design_title": "Design:"
+    },
+    "portfolio": {
+        "portfolio_btn": "Check them all"
+    },
+    "contact": {
+        "contact_text": "Get in touch, lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis netus risus mauris amet.",
+        "contact_media_advertisement": "Remember, you can also contact by my social media, check it below:",
+        "form_name": "Full Name:",
+        "form_mail": "Mail:",
+        "form_msg": "Message:",
+        "form_btn": "Send"
+    },
+    "footer": {
+        "disclaimer": "All rights reserved."
+    },
+    "side_elements": {
+        "side_about_me": "About me",
+        "side_portfolio": "Portfolio",
+        "side_contact": "Contact"
+    }
+}
