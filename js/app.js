@@ -21,7 +21,7 @@ function switchMode() {
 
       /* Guardar en LocalStorage */
       const isLightMode = document.body.classList.contains('light');
-      localStorage.setItem('lightMode', isLightMode);
+      sessionStorage.setItem('lightMode', isLightMode);
 
       /* Cambiar iconos */
       if (document.body.classList.contains("light")) {
@@ -38,7 +38,7 @@ function switchMode() {
 }
 
 function loadLightMode() {
-  const isLightMode = localStorage.getItem('lightMode') === 'true';
+  const isLightMode = sessionStorage.getItem('lightMode') === 'true';
   if (isLightMode) {
     document.body.classList.add('light');
     const logoImage = document.querySelector(".logo img");
@@ -47,12 +47,12 @@ function loadLightMode() {
 }
 /* --- Idiomas --- */
 
-let currentLanguage = localStorage.getItem('language') || 'en';
+let currentLanguage = sessionStorage.getItem('language') || 'en';
 
 function changeLanguage(language) {
   currentLanguage = language;
   // Guardar el lenguaje en localStorage
-  localStorage.setItem('language', language);
+  sessionStorage.setItem('language', language);
   // Cargar JSON
   fetch(`../languages/${language}.json`)
     .then(response => response.json())
