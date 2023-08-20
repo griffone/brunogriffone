@@ -7,7 +7,8 @@
     "header": {
         "greeting": "Hi!, I'm",
         "avocation": "Student & Developer",
-        "button_hire_me": "Hire me"
+        "button_hire_me": "Hire me",
+        "alert": "The portfolio is still under construction"
     },
     "about_me": {
         "about_me_text": "[EN] -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Habitant posuere iaculis neque et, eu sapien. A odio bibendum purus facilisi accumsan ut. Placerat nunc dapibus ultrices fringilla sit. Senectus volutpat morbi laoreet nisi vitae et"

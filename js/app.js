@@ -108,3 +108,16 @@ window.addEventListener('resize', () => {
     closeSidebar();
   }
 });
+
+/* --- Temporal: Alerta --- */
+const alertBox = document.querySelector(".alert-unfinished");
+const closeButton = document.querySelector("#close-alert");
+closeButton.addEventListener("click", function () {
+  alertBox.style.display = "none";
+  sessionStorage.setItem("alertClosed", "true");
+});
+
+const isAlertClosed = sessionStorage.getItem("alertClosed");
+if (isAlertClosed === "true") {
+  alertBox.style.display = "none";
+}

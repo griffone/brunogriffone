@@ -62,6 +62,26 @@ body {
   background: var(--dark-gradient);
 }
 
+.alert-unfinished {
+  color: #8b8a3e;
+  font-size: 1.4rem;
+  position: fixed;
+  background-color: #c2c181;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  top: 10px;
+  left: 10px;
+  padding: 10px 25px;
+  z-index: 75;
+  border-radius: 10px;
+  border: 1px solid #8b8a3e;
+}
+.alert-unfinished i:hover {
+  cursor: pointer;
+  color: #ffffff;
+}
+
 /* Nav */
 
 .nav {
