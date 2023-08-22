@@ -11,7 +11,7 @@
         "alert": "The portfolio is still under construction"
     },
     "about_me": {
-        "about_me_text": "[EN] -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Habitant posuere iaculis neque et, eu sapien. A odio bibendum purus facilisi accumsan ut. Placerat nunc dapibus ultrices fringilla sit. Senectus volutpat morbi laoreet nisi vitae et"
+        "about_me_text": "Hello! My name is Bruno and I am a Systems Engineering student and Web Developer. If you are looking for a professional, modern website with high-level personalized assistance, do not hesitate to contact me."
     },
     "services": {
         "gral_title_service": "Services",
@@ -29,7 +29,7 @@
         "portfolio_btn": "Check them all"
     },
     "contact": {
-        "contact_text": "Get in touch, lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis netus risus mauris amet.",
+        "contact_text": "Let's be in touch, the following form sends a message to my email directly. If you prefer to send it manually, my email is:",
         "contact_media_advertisement": "Remember, you can also contact by my social media, check it below:",
         "form_name": "Full Name:",
         "form_mail": "Mail:",

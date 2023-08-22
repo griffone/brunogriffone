@@ -11,7 +11,7 @@
         "alert": "El portafolio está aún en construcción"
     },
     "about_me": {
-        "about_me_text": "[ES] -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Habitant posuere iaculis neque et, eu sapien. A odio bibendum purus facilisi accumsan ut. Placerat nunc dapibus ultrices fringilla sit. Senectus volutpat morbi laoreet nisi vitae et"
+        "about_me_text": "Hola! Mi nombre es Bruno y soy estudiante de Ingeniería en Sistemas y Desarrollador Web, si estas en busca de un sitio web profesional, moderno y con una asistencia personalizada de alto nivel, no dudes en contactarme."
     },
     "services": {
         "gral_title_service": "Servicios",
@@ -29,7 +29,7 @@
         "portfolio_btn": "Ver todos"
     },
     "contact": {
-        "contact_text": "Estemos en contacto, lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis netus risus mauris amet.",
+        "contact_text": "Estemos en contacto, el siguiente formulario envía un mensaje a mi correo de forma directa. Si prefieres enviarlo manualmente, mi correo es:",
         "contact_media_advertisement": "Recuerda, también puedes contactarme a través de mis redes sociales:",
         "form_name": "Nombre y Apellido:",
         "form_mail": "Correo electrónico:",
